@@ -16,7 +16,7 @@ Technologies Used
 - Android Architecture Components (e.g., LiveData, ViewModel)
 
 Setup and Installation
-1. Clone the repository: git clone [https://github.com/your-username/Maps-Android-App.git](https://github.com/amartinezbrito1/AndroidMapsApp)
+1. Clone the repository: git clone https://github.com/amartinezbrito1/AndroidMapsApp
 2. Import the project into Android Studio
 3. Create a new Google Maps API project and enable the Android API
 4. Obtain an API key and add it to your local.properties file
